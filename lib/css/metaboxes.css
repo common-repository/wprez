@@ -1,0 +1,44 @@
+.steps-edit .description
+{ display:none; }
+ 
+.steps-edit label
+{ display:block; font-weight:bold; margin:6px; margin-bottom:0; margin-top:12px; }
+ 
+.steps-edit label span
+{ display:inline; font-weight:normal; }
+ 
+.steps-edit span
+{ color:#999; display:block; }
+ 
+.steps-edit textarea, .steps-edit input[type='text']
+{ margin-bottom:3px; width:99%; }
+ 
+.steps-edit h4
+{ color:#999; font-size:1em; margin:15px 6px; text-transform:uppercase; }
+
+.steps-edit .postbox {
+	margin-bottom:5px;
+}	
+
+.steps-edit ul.inline{
+	width:99%;
+	float:left;
+}
+.steps-edit ul.inline li {
+	list-style-type: none;
+	float:left;
+}
+.steps-edit ul.half li {
+	width: 47%;
+	margin-right:3%;
+}
+.steps-edit ul.third li {
+	width: 30%;
+	margin-right:3%;
+}
+.steps-edit ul.quarter li{
+	width:22%;
+	margin-right:3%;
+}
+
+h4.update-warning { color: red; }

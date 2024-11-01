@@ -1,0 +1,14 @@
+.wp_themeSkin iframe {
+	background:white!important;
+}
+
+td.mceLast div span {
+	float:left;
+	margin-right:2px;
+}
+.wpa_group {
+
+}
+.wpa_group:nth-child(even){
+	/*background: blue;*/
+}
